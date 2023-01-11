@@ -3,7 +3,7 @@
 
 from typing import List
 
-from RiotGames.Types import Region
+from RiotGames.Types.Region import Region
 
 
 class ChampionRotation:

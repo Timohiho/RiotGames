@@ -4,7 +4,7 @@
 from typing import List, Any
 
 from RiotGames.Status import Game
-from RiotGames.Types import Region
+from RiotGames.Types.Region import Region
 
 
 class Status:

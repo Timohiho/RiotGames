@@ -8,6 +8,7 @@ class Region(Enum):
     BR1 = "BR1"
     EUN1 = "EUN1"
     EUW1 = "EUW1"
+    EUW = "EUW"
     JP1 = "JP1"
     KR = "KR"
     LA1 = "LA1"
